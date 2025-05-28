@@ -11,3 +11,6 @@
 
 - You can see this video for Installation of Wordpress https://www.youtube.com/watch?v=jnW3rCGIBxY&list=PLy0m7LwEILJCFv1vnYxM5Z6FmbYHvK7tQ&index=4
 
+- username: admin
+- password: admin0123
+
