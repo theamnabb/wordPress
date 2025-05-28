@@ -14,3 +14,5 @@
 - username: admin
 - password: admin0123
 
+# Lecture 5:
+## WordPress Dashboard Introduction
