@@ -35,7 +35,7 @@ NZ8AIpW8 | Codingal | test
 ### tags, comments in WordPress
 
 # Lecture 10:
-### Theme Libray
+### Media Library
 
 
 # Lecture 11:
