@@ -22,5 +22,17 @@ NZ8AIpW8 | Codingal | test
 ### WordPress Dashboard Introduction
 
 # 29 May 2025
-
+# Lecture 6:
 ### Create and Edit Pages in WordPress
+
+# Lecture 7:
+### Create and Edit Pages in WordPress
+
+# Lecture 8:
+### Create post in WordPress
+
+# Lecture 9:
+### Create and managing menu in WordPress
+
+# Lecture 10:
+### tags, comments in WordPress
