@@ -62,6 +62,6 @@ NZ8AIpW8 | Codingal | test
 
 
 
-# Lecture 19:
-### How to Add Legal Pages in WordPress Website
+# Lecture 20:
+### How to Add WhatsApp Chat in WordPress
 - social Chat
