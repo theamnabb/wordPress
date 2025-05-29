@@ -52,4 +52,11 @@ NZ8AIpW8 | Codingal | test
 
 
 # Lecture 18:
-How To Create A Contact Form In WordPress
+### How To Create A Contact Form In WordPress
+
+# Lecture 18:
+### How To Create A Contact Form In WordPress
+
+
+# Lecture 19:
+### How to Add Legal Pages in WordPress Website
