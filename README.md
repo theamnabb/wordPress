@@ -91,4 +91,7 @@ NZ8AIpW8 | Codingal | test
 
 # Lecture 27:
 ### Move WordPress from Local Server to Live Server
+- Hostinger
 
+# Lecture 28:
+### Chapter 1 Summary
