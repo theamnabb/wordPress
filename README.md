@@ -26,16 +26,17 @@ NZ8AIpW8 | Codingal | test
 ### Create and Edit Pages in WordPress
 
 # Lecture 7:
-### Create and Edit Pages in WordPress
-
-# Lecture 8:
 ### Create post in WordPress
 
-# Lecture 9:
+# Lecture 8:
 ### Create and managing menu in WordPress
 
-# Lecture 10:
+# Lecture 9:
 ### tags, comments in WordPress
+
+# Lecture 10:
+### Theme Libray
+
 
 # Lecture 11:
 ### WordPress Themes
