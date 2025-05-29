@@ -65,3 +65,21 @@ NZ8AIpW8 | Codingal | test
 # Lecture 20:
 ### How to Add WhatsApp Chat in WordPress
 - social Chat
+
+
+# Lecture 21:
+### How To Add Social Share Buttons in WordPress
+- add to any share button
+
+
+# Lecture 22:
+### How To Managing Users In WordPress
+
+
+# Lecture 23:
+### WordPress Tools
+
+
+# Lecture 25:
+### Backup and Restore WordPress Website 
+- All in one wp migration and Backup
