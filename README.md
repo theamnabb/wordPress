@@ -44,5 +44,8 @@ NZ8AIpW8 | Codingal | test
 # Lecture 12:
 ### WordPress Themes
 
-# Lecture 13:
+# Lecture 13 & 14:
 ### Customizing WordPress Themes
+
+# Lecture 16:
+### Plugins
