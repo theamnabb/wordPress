@@ -36,3 +36,6 @@ NZ8AIpW8 | Codingal | test
 
 # Lecture 10:
 ### tags, comments in WordPress
+
+# Lecture 11:
+### WordPress Themes
