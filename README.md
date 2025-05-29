@@ -83,3 +83,12 @@ NZ8AIpW8 | Codingal | test
 # Lecture 25:
 ### Backup and Restore WordPress Website 
 - All in one wp migration and Backup
+
+
+# Lecture 26:
+### Update WordPress Website Theme & Plugins 
+
+
+# Lecture 27:
+### Move WordPress from Local Server to Live Server
+
