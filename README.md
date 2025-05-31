@@ -113,9 +113,22 @@ NZ8AIpW8 | Codingal | test
 
 # lecture 46
 - How to Use HTML Code in Elementor
+
 # lecture 47
 - WooCommerce
 - pluging | WooCommerce
+
 # lecture 48
 - How To Setup Woocommerce In WordPress
 
+# lecture 49
+- How To Setup Woocommerce In WordPress
+
+# lecture 50
+- Configure Product Settings
+# lecture 51
+- pyment method 
+# lecture 51
+- How to Add a Credit Card Payment Gateway 
+- stripe | plugin
+- safepay
