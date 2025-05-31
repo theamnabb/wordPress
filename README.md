@@ -105,4 +105,6 @@ NZ8AIpW8 | Codingal | test
 # lecture 31 to 44
 
 
-# lecture 42 
+# lecture 45
+- How to Use Shortcodes in Elementor
+
