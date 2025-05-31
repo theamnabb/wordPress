@@ -113,7 +113,9 @@ NZ8AIpW8 | Codingal | test
 
 # lecture 46
 - How to Use HTML Code in Elementor
-# lecture 46
+# lecture 47
 - WooCommerce
 - pluging | WooCommerce
+# lecture 48
+- How To Setup Woocommerce In WordPress
 
