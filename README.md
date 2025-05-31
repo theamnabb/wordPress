@@ -99,3 +99,10 @@ NZ8AIpW8 | Codingal | test
 # Lecture 29:
 ### Elementor
 
+# Lecture 30:
+### Installation of Elementor
+
+# lecture 31 to 44
+
+
+# lecture 42 
