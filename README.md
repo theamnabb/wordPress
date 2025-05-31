@@ -128,7 +128,11 @@ NZ8AIpW8 | Codingal | test
 - Configure Product Settings
 # lecture 51
 - pyment method 
-# lecture 51
+# lecture 52
 - How to Add a Credit Card Payment Gateway 
-- stripe | plugin
+- stripe | pluging
 - safepay
+# lecture 53
+- How To Add Jazzcash Payment Gateways
+- simplepaisa easypaisa| pluging
+- 
