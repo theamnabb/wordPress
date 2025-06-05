@@ -15,6 +15,8 @@
 
 - username: admin
 - password: admin0123
+
+wp-admin for again login page
 ---
 
 NZ8AIpW8 | Codingal | test 
@@ -103,7 +105,6 @@ NZ8AIpW8 | Codingal | test
 ### Installation of Elementor
 
 # lecture 31 to 44
-
 
 # lecture 45
 - How to Use Shortcodes in Elementor
