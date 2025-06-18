@@ -5,5 +5,5 @@
     - https://wordpress.org/download/
     - otherwise just create folder 
 - Step 3: then http://localhost/phpmyadmin
-- Step 4: Create Data Base
-- Step 5: 
+- Step 4: Create DataBase
+- Step 5: Run On localhost/Project_name
