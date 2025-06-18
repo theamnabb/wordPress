@@ -19,7 +19,7 @@
 wp-admin for again login page
 ---
 
-NZ8AIpW8 | Codingal | test 
+
 # Lecture 5:
 ### WordPress Dashboard Introduction
 
