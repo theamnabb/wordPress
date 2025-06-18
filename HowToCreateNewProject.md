@@ -3,7 +3,9 @@
 - Step 1: Open XXMP
 - Step 2: create folder from Wordpress ex.
     - https://wordpress.org/download/
-    - otherwise just create folder 
 - Step 3: then http://localhost/phpmyadmin
+    - otherwise just create folder 
 - Step 4: Create DataBase
 - Step 5: Run On localhost/Project_name
+- Step 6: profile, general settings and permlinks
+- step 7: Add plugins and theme
