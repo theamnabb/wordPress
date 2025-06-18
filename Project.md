@@ -9,3 +9,12 @@
     - MetForm | By XpeedStudio
 - Theme Used: Helo Elementor
 
+- Color : #f1f6f6
+- Text- color: #13264e
+
+#FFB37F #FF7b03
+#39affd #477fff
+
+
+
+
