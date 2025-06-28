@@ -12,6 +12,5 @@
 - step 8: create a home page and then connect with theme by reading in setting
 - step 9: 
 - step 9: 
-- step 9: 
 
 
