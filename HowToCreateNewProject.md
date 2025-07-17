@@ -14,3 +14,7 @@
 - step 10:
 - step 11:
 - step 12:
+
+
+
+17 july 2025 wifi done 
