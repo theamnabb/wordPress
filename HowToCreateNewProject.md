@@ -1,4 +1,4 @@
-# How to creata a new project locally
+# How to create a new project locally
 
 - Step 1: Open XXMP
 - Step 2: create folder from Wordpress ex.
