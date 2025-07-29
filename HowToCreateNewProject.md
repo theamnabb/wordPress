@@ -11,4 +11,6 @@
 - step 7: Add plugins and theme
 - step 8: create a home page and then connect with theme by reading in setting
 
+<!-- Last comment -->
+
 
